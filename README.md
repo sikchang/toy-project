@@ -1,4 +1,4 @@
-React를 알아보자!(Git은 거들뿐..)
+React를 알아보자!
 ===
 ## 참여자
 * 성창식(Developer)
